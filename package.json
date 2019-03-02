@@ -8,7 +8,7 @@
   "devDependencies": {
     "@types/chai": "^4.0.0",
     "@types/mocha": "^5.0.0",
-    "@types/node": "^11.0.0",
+    "@types/node": "^11.10.4",
     "chai": "^4.0.0",
     "cpy-cli": "^2.0.0",
     "karma": "^4.0.0",
